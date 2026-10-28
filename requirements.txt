@@ -1,0 +1,8 @@
+# Pinned add-on dependencies for the MCMA pipeline on Kaggle.
+# Kaggle supplies torch, CUDA, TensorFlow and the core scientific Python stack.
+# Do not add torch, torchvision, torchaudio, tensorflow, nvidia-* or CUDA packages.
+
+neurokit2==0.2.13
+ptflops==0.7.5
+pytorch-wavelets==1.3.0
+torchsummary==1.5.1
